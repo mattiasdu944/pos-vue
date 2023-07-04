@@ -4,5 +4,7 @@
 
 <template>
     <AdminNav/>
-    <RouterView/>
+    <main class="pt-32 container">
+        <RouterView/>
+    </main>
 </template>
